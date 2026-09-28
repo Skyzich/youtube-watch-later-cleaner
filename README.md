@@ -153,6 +153,16 @@ Read [`DISCLAIMER.md`](DISCLAIMER.md) before publishing or redistributing the pr
 
 YouTube and Google are trademarks of their respective owners. Their names are used only to identify compatibility with the service. This project is not affiliated with, sponsored by, approved by, or endorsed by Google LLC or YouTube.
 
+## Maintenance
+
+This is primarily a personal utility that I decided to share publicly.
+
+Maintenance is best-effort and depends on my available time.  
+Bug reports and compatibility feedback are welcome, but fixes, new features,
+and response times are not guaranteed.
+
+YouTube may change its interface at any time, which can temporarily break the script.
+
 ## Publishing
 
 A simple GitHub publishing guide is included in [`PUBLISHING.md`](PUBLISHING.md).
