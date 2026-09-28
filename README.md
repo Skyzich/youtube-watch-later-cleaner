@@ -155,13 +155,13 @@ YouTube and Google are trademarks of their respective owners. Their names are us
 
 ## Maintenance
 
-This project was originally created as a personal utility and is shared publicly in case it is useful to others.
+This project was created primarily for personal use and is shared publicly in case it is useful to others.
 
-Maintenance is provided on a best-effort basis and depends on my available time and continued interest in the project. There is no guaranteed maintenance schedule, response time, or commitment to future updates.
+Ongoing maintenance is not guaranteed. I may revisit the project, publish fixes, or add improvements if I have the time and interest to do so, but there is no commitment to provide updates, support, compatibility fixes, new features, or response times.
 
-Bug reports, compatibility feedback, and contributions are welcome and may help guide future improvements when time permits.
+Bug reports and compatibility feedback are still welcome and may be useful for future revisions if the project is revisited.
 
-Because YouTube may change its interface at any time, the script may occasionally require updates to remain compatible.
+Because YouTube can change its interface at any time, the script may stop working partially or completely without notice.
 
 ## Publishing
 
