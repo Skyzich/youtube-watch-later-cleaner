@@ -1,5 +1,7 @@
 # Skyzich — YouTube Watch Later Cleaner
 
+![Skyzich YouTube Watch Later Cleaner](assets/social-preview.png)
+
 A fast, adaptive DevTools console script for removing videos from **your own YouTube Watch Later playlist**.
 
 **Author:** Skyzich  
